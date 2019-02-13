@@ -1,0 +1,14 @@
+{
+  "name": "p5js",
+  "version": "1.0.0",
+  "description": "p5js workshop",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JaeHwan So",
+  "license": "ISC",
+  "dependencies": {
+    "pixelate": "0.0.5"
+  }
+}
